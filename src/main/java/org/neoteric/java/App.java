@@ -23,10 +23,8 @@ public class App
         intSet.add(2);
         intSet.add(1);
         printer.print(intSet);
-
         int singleItem = 78955;
         printer.print(singleItem);
-
 
 
 
